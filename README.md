@@ -1,6 +1,6 @@
 ![Employee Records Image](images/employees.jpg)
 
-# Employee-Records
+# Employee Records
 A simple python script to ingest employee record CSVs, parse, and write a better-formatted output file.
 
 ## Problem
